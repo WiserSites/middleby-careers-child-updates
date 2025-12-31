@@ -1,12 +1,12 @@
 {
     "name" : "Middleby Careers Child",
-    "version" : "1.1.12",
+    "version" : "1.1.13",
     "requires" : "3.2",
     "tested" : "5.9",
     "upgrade_notice" : "Here's why you should upgrade...",
     "author" : "WiserSites",
 	"author_homepage" : "https://wisersites.com/",
-    "download_url" : "https://github.com/WiserSites/middleby-careers-child-updates/raw/refs/heads/main/downloads/middleby-careers-child_v1.1.12.zip",
+    "download_url" : "https://github.com/WiserSites/middleby-careers-child-updates/raw/refs/heads/main/downloads/middleby-careers-child_v1.1.13.zip",
     "sections" : {
         "description" : "Middleby Careers Child is the most complete Careers plugin for WordPress."
     }
